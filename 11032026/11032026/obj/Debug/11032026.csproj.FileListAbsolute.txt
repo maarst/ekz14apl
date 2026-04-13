@@ -1,0 +1,15 @@
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\bin\Debug\11032026.exe.config
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\bin\Debug\11032026.exe
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\bin\Debug\11032026.pdb
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026.g.resources
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\_11032026.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026.exe
+C:\Users\umple\OneDrive\Desktop\11032026\11032026\obj\Debug\11032026.pdb
