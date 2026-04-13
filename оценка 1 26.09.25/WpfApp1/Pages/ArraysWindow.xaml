@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp1.Pages.ArraysWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Pages"
+        mc:Ignorable="d"
+        Title="ArraysWindow" Height="300" Width="400">
+    <StackPanel Margin="20">
+        <TextBlock Text="Массивы:"/>
+        <TextBlock x:Name="Array1Text"/>
+        <TextBlock x:Name="Array2Text"/>
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+            <Button Content="Сложить" Width="100" Margin="5" Click="Add_Click" Background="White" BorderBrush="Black"/>
+            <Button Content="Вычесть" Width="100" Margin="5" Click="Sub_Click" Background="White" BorderBrush="Black"/>
+            <Button Content="Умножить" Width="100" Margin="5" Click="Mul_Click" Background="White" BorderBrush="Black"/>
+        </StackPanel>
+        <TextBlock Text="Результат:" Margin="0,10,0,0"/>
+        <TextBlock x:Name="ResultText"/>
+        <Button Content="Выход" Width="100" Margin="0,20,0,0" Click="Exit_Click" Background="White" BorderBrush="Black"/>
+    </StackPanel>
+</Window>

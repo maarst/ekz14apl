@@ -1,0 +1,42 @@
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\Pages\ArraysWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\Pages\StringsWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\Pages\TranslateWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\Pages\ArraysWindow.baml
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\Pages\StringsWindow.baml
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\Pages\TranslateWindow.baml
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\umple\OneDrive\Desktop\290925\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\Pages\ArraysWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\Pages\StringsWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\Pages\TranslateWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\Pages\ArraysWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\Pages\StringsWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\Pages\TranslateWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\оценка 1 26.09.25\WpfApp1\obj\Debug\WpfApp1.pdb

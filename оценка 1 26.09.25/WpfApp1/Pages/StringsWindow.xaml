@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.Pages.StringsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Pages"
+        mc:Ignorable="d"
+        Title="StringsWindow" Height="300" Width="400">
+    <StackPanel Margin="20">
+        <TextBox x:Name="Text1" Margin="0,5,0,0" BorderBrush="Black"/>
+        <TextBox x:Name="Text2" Margin="0,5,0,0" BorderBrush="Black"/>
+        <TextBox x:Name="Text3" Margin="0,5,0,0" BorderBrush="Black"/>
+        <Button Content="Выполнить" Width="100" Margin="0,10,0,0" Click="Do_Click" BorderBrush="Black" Background="White"/>
+        <TextBlock Text="Результат:" Margin="0,10,0,0"/>
+        <TextBlock x:Name="ResultText"/>
+        <Button Content="Выход" Width="100" Margin="0,20,0,0" Click="Exit_Click" BorderBrush="Black" Background="White"/>
+    </StackPanel>
+</Window>
