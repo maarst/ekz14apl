@@ -1,0 +1,25 @@
+﻿<Window x:Class="Blocnot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Работа с блокнотом"
+        Height="350" Width="400"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+
+            <TextBlock Text="Выберите действие:"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       TextAlignment="Center"
+                       Margin="0,0,0,20"/>
+
+            <Button Name="BtnWrite" Content="Записать" Height="40" Margin="0,0,0,10" Click="BtnWrite_Click"/>
+            <Button Name="BtnEdit" Content="Редактировать" Height="40" Margin="0,0,0,10" Click="BtnEdit_Click"/>
+            <Button Name="BtnLogin" Content="Войти" Height="40" Click="BtnLogin_Click"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

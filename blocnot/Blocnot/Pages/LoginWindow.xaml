@@ -1,0 +1,37 @@
+﻿<Window x:Class="Blocnot.Pages.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вход"
+        Height="200"
+        Width="340"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,8">
+            <TextBlock Text="Логин:" Width="70" VerticalAlignment="Center" />
+            <TextBox Name="TxtLogin" Width="200" />
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,8">
+            <TextBlock Text="Пароль:" Width="70" VerticalAlignment="Center" />
+            <PasswordBox Name="TxtPassword" Width="200" />
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Name="BtnEnter" Content="Войти" Width="90" Height="30" Click="BtnEnter_Click" />
+        </StackPanel>
+
+    </Grid>
+</Window>

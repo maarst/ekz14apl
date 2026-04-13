@@ -1,0 +1,38 @@
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Pages\LoginWindow.baml
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Pages\EditorWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Pages\LoginWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\bin\Debug\Blocnot.exe.config
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\bin\Debug\Blocnot.exe
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\bin\Debug\Blocnot.pdb
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Pages\EditorWindow.baml
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.g.resources
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.exe
+C:\Users\umple\OneDrive\Desktop\blocnot\Blocnot\obj\Debug\Blocnot.pdb
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\bin\Debug\Blocnot.exe.config
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\bin\Debug\Blocnot.exe
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\bin\Debug\Blocnot.pdb
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Pages\LoginWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Pages\EditorWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Pages\LoginWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Pages\EditorWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.g.resources
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.exe
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\blocnot\Blocnot\obj\Debug\Blocnot.pdb
