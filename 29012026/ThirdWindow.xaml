@@ -1,0 +1,28 @@
+﻿<Window x:Class="_29012029.ThirdWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_29012029"
+        mc:Ignorable="d"
+        Title="Картинки" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" VerticalAlignment="Center" Margin="0,0,20,0">
+            <CheckBox x:Name="Check1" Content="1" Margin="0,0,0,10" Checked="Check1_Checked" Unchecked="Check1_Unchecked"/>
+            <CheckBox x:Name="Check2" Content="2"/>
+        </StackPanel>
+
+        <Image x:Name="DynamicImage" 
+       Source="img1.jpg" 
+       MouseDown="DynamicImage_Clicking" 
+       Cursor="Hand" 
+       Stretch="Uniform" Grid.Column="1" Margin="100,42,100,42"/>
+    </Grid>
+</Window>
