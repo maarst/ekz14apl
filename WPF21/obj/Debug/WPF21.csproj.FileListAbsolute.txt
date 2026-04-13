@@ -1,0 +1,15 @@
+C:\Users\umple\OneDrive\Desktop\WPF21\bin\Debug\WPF21.exe.config
+C:\Users\umple\OneDrive\Desktop\WPF21\bin\Debug\WPF21.exe
+C:\Users\umple\OneDrive\Desktop\WPF21\bin\Debug\WPF21.pdb
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.g.resources
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.exe
+C:\Users\umple\OneDrive\Desktop\WPF21\obj\Debug\WPF21.pdb
