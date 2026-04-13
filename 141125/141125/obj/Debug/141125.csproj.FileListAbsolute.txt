@@ -1,0 +1,30 @@
+C:\Users\umple\OneDrive\Desktop\141125\141125\bin\Debug\141125.exe.config
+C:\Users\umple\OneDrive\Desktop\141125\141125\bin\Debug\141125.exe
+C:\Users\umple\OneDrive\Desktop\141125\141125\bin\Debug\141125.pdb
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125.g.resources
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\_141125.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125.exe
+C:\Users\umple\OneDrive\Desktop\141125\141125\obj\Debug\141125.pdb
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\bin\Debug\141125.exe.config
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\bin\Debug\141125.exe
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\bin\Debug\141125.pdb
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125.csproj.AssemblyReference.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\MainWindow.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\App.g.cs
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125_MarkupCompile.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125_MarkupCompile.lref
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\MainWindow.baml
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125.g.resources
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\_141125.Properties.Resources.resources
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125.csproj.GenerateResource.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125.csproj.CoreCompileInputs.cache
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125.exe
+C:\Users\umple\OneDrive\Desktop\разраотка и тестироваие\141125\141125\obj\Debug\141125.pdb
