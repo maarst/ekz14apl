@@ -54,28 +54,26 @@ namespace _22._01._2026
         }
 
         private void EngInput_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            string eng = "QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,.qwertyuiop[]asdfghjkl;'zxcvbnm,.";
-            string rus = "ЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮйцукенгшщзхъфывапролджэячсмитьбю";
+{
+    string eng = "QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,.qwertyuiop[]asdfghjkl;'zxcvbnm,.";
+    string rus = "ЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮйцукенгшщзхъфывапролджэячсмитьбю";
 
-            string input = EngInput.Text;
-            string result = "";
+    string input = EngInput.Text;
+    string result = "";
 
-            foreach (char c in input)
-            {
-                int index = eng.IndexOf(c);
-                if (index != -1)
-                {
-                    result += rus[index];
-                }
-                else
-                {
-                    result += c;
-                }
-            }
+    for (int i = 0; i < input.Length; i++)
+    {
+        char c = input[i];
+        int index = eng.IndexOf(c);
 
-            RusOutput.Text = result;
-        }
+        if (index >= 0)
+            result += rus[index];
+        else
+            result += c;
+    }
+
+    RusOutput.Text = result;
+}
 
         private void Pic1_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
