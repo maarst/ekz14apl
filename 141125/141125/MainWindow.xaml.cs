@@ -26,6 +26,25 @@ namespace _141125
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+{
+    int num1, num2;
+
+    if (!int.TryParse(textBox1.Text, out num1) ||
+        !int.TryParse(textBox2.Text, out num2))
+    {
+        MessageBox.Show("Введите корректные числа!");
+        return;
+    }
+
+    if (num1 > num2)
+        label1.Text = "Число 1 больше числа 2";
+    else if (num1 < num2)
+        label1.Text = "Число 1 меньше числа 2";
+    else
+        label1.Text = "Числа равны";
+}
+
         private void One(object sender, TextCompositionEventArgs e)
         {
             if (!char.IsDigit(e.Text[0]))
